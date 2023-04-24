@@ -1,0 +1,31 @@
+body {
+    background-color: lavenderblush;
+
+}
+
+#score {
+    font-size: 20px;
+    float: left;
+    margin-left: 20px;
+}
+
+#timer {
+    font-size: 20px;
+    float: right;
+    margin-right: 60px;
+}
+
+#show_sketch {
+    float: right;
+    
+}
+ canvas {
+    border: 5px solid cyan;
+    border-radius: 20px;
+    margin-top: 150px;
+ }
+
+ p {
+    padding-top: 10px;
+    font-size: 25px;
+ }
